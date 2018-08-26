@@ -1,0 +1,79 @@
+﻿<link href="~/css/Pages/Contact.css" rel="stylesheet" />
+<script src="~/js/Contact.js"></script>
+
+<article>
+    <p id="redirectToAbout">
+        In order to contact me use the information provided in
+        <a href="@Url.Action("About","Home")">About</a>
+        page.
+    </p>
+
+    <hr />
+
+    <form name="helpForm" onsubmit="formSubmited()">
+        <fieldset>
+            <legend>Fill the form with your personal information</legend>
+            <p>
+                <label>
+                    Full Name: <span class="asterisk">*</span>
+                    <span class="tooltipText">
+                        This field is marked as important!
+                    </span>
+                </label>
+            </p>
+            <input type="text" name="fname" placeholder="First" required />
+            <input type="text" name="lname" placeholder="Last" required />
+
+            <p>
+                <label>
+                    E-mail: <span class="asterisk">*</span>
+                    <span class="tooltipText">
+                        This field is marked as important!
+                    </span>
+                </label>
+            </p>
+            <input type="email" name="email" placeholder="Enter a valid email address"
+                   required />
+
+            @*<select name="selected_email_domain">
+    <option value="gmail">@gmail.com</option>
+    <option value="yahoo">@yahoo.com</option>
+    <option value="outlook">@outlook.com</option>
+    <option value="hotmail">@hotmail.com</option>
+    <option value="mail">@mail.ru</option>
+            </select>
+            <span class="tooltipText">Select the domain</span>*@
+        </fieldset>
+
+        <p>Massage:</p>
+        <textarea name="msg" placeholder="Tell us about your concern..." required></textarea>
+
+        <!--<Prove you're not a robot>-->
+        <div id="robot">
+            <input type="checkbox" name="robotCheckbox" required />
+            <label>I'm not a robot!</label><br />
+            <div id="textImage">
+                <img class="textImages" src="~/Images/Robot/0.jpg" />
+                <img class="textImages" src="~/Images/Robot/1.jpg" />
+                <img class="textImages" src="~/Images/Robot/2.jpg" />
+                <img class="textImages" src="~/Images/Robot/3.png" />
+
+                <img src="~/Images/Robot/change.png" width="50" height="50"
+                     title="Click here to change the text image" onclick="changetheTextImage()" />
+            </div>
+
+            <input type="text" name="proveText" id="pictureText"
+                   title="Type the text you see in the picture"
+                   placeholder="Type the text you see in the picture" />
+        </div>
+        <!--</Prove you're not a robot>-->
+
+        <div>
+            <input type="submit" name="submitButton" value="Submit"
+                   title="Click here to submit the form" class="tooltip" />
+            <span class="tooltipText">
+                Please, review the form before submitting
+            </span>
+        </div>
+    </form>
+</article>

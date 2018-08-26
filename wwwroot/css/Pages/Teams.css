@@ -1,0 +1,59 @@
+﻿/*Article*/
+article > img:first-child{
+    height:350px;
+    width:100%;
+}
+article > div{
+    width:100%;
+}
+article table:last-child{
+    margin-bottom:40px;
+}
+
+article h1{
+    text-align:center;
+    font-weight:bold;
+    text-shadow:4px 4px 4px dimgrey;
+    font-size:22px;
+    text-align:center;
+    background-color:#1b1e24;
+    color:white;
+    padding:10px;
+    margin:0;
+}
+.playerImage_fr{ float:right; width:30%;}
+.playerImage_fl{ float:left; width:30%;}
+.playerImage_fl td, .playerImage_fr td{
+    text-align:center;
+}
+.playerImage_fr img, .playerImage_fl img{
+    transition-duration:0.45s;
+    width:100%;
+    height:auto;
+}
+.playerImage_fr img:hover, .playerImage_fl img:hover{
+    transform:scale(1.05);
+    opacity:0.9;
+}
+
+/*playerInfo*/
+.playerInfo{
+    width:70%;
+    border-collapse:collapse;
+    margin-bottom:22px;
+    position:relative;
+}
+.playerInfo tr{
+    transition-duration:0.1s;
+    transition-timing-function:ease-in;
+}
+.playerInfo td{
+    padding:10px;
+}
+.playerInfo tr:nth-child(even){
+    background-color:#EBEBEB;
+}
+.playerInfo tr:hover{
+    background-color:#4E5066;
+    color:white;
+}

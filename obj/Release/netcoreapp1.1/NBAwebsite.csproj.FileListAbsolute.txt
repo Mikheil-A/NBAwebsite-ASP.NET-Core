@@ -1,0 +1,9 @@
+C:\Users\Misho\Downloads\Uploads\core\Project\NBAwebsite\bin\Release\netcoreapp1.1\NBAwebsite.deps.json
+C:\Users\Misho\Downloads\Uploads\core\Project\NBAwebsite\bin\Release\netcoreapp1.1\NBAwebsite.runtimeconfig.json
+C:\Users\Misho\Downloads\Uploads\core\Project\NBAwebsite\bin\Release\netcoreapp1.1\NBAwebsite.runtimeconfig.dev.json
+C:\Users\Misho\Downloads\Uploads\core\Project\NBAwebsite\bin\Release\netcoreapp1.1\NBAwebsite.dll
+C:\Users\Misho\Downloads\Uploads\core\Project\NBAwebsite\bin\Release\netcoreapp1.1\NBAwebsite.pdb
+C:\Users\Misho\Downloads\Uploads\core\Project\NBAwebsite\obj\Release\netcoreapp1.1\NBAwebsite.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Downloads\Uploads\core\Project\NBAwebsite\obj\Release\netcoreapp1.1\NBAwebsite.AssemblyInfo.cs
+C:\Users\Misho\Downloads\Uploads\core\Project\NBAwebsite\obj\Release\netcoreapp1.1\NBAwebsite.dll
+C:\Users\Misho\Downloads\Uploads\core\Project\NBAwebsite\obj\Release\netcoreapp1.1\NBAwebsite.pdb

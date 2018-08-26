@@ -1,1 +1,1 @@
-# NBAwebsite-ASP.NET-Core
+# NBAwebsite (ASP.NET Core)

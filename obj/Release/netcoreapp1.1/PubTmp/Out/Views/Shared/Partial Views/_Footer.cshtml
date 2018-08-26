@@ -1,0 +1,33 @@
+@{
+    ViewBag.Author = "Mikheil Aleksidze";
+}
+
+<link href="~/css/Partial Views/Footer.css" rel="stylesheet" type="text/css"/>
+
+<footer>
+    @{
+        var bt1 = new Byte[20];
+        bool lastRegisteredUsernameExists = @Context.Session.TryGetValue("LastRegisteredUsername", out bt1);
+        var bt2 = new Byte[20];
+        bool lastRegisteredUserDateExists = @Context.Session.TryGetValue("LastRegisteredUserDate", out bt2);
+        if (lastRegisteredUsernameExists & lastRegisteredUserDateExists)
+        {
+            string username = System.Text.Encoding.UTF8.GetString(bt1);
+            string date = System.Text.Encoding.UTF8.GetString(bt2);
+
+            <div id="lastRegistered">
+                <span>Last registered user: @username</span><br />
+                <span>Date: @date</span>
+            </div>
+        }
+    }
+
+    <p id="copyright">
+        Copyright <span style="font-size:20px;">&copy;</span> @DateTime.Now.Year - All Rights Reserved
+    </p>
+
+    <span id="developer">
+        Developed by:
+        <a href="http://www.fb.com/misho.aleksidze" target="_blank">@ViewBag.Author</a>
+    </span>
+</footer>

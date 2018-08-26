@@ -1,0 +1,76 @@
+﻿header {
+    position: fixed;
+    z-index: 10;
+    top: 0;
+    width: 100%;
+    background: linear-gradient(to right, blue, white, red);
+}
+
+img#logo {
+    transition-duration: 0.45s;
+}
+img#logo:hover {
+    transform: scale(0.95);
+    opacity: 0.75;
+}
+
+#login, #logout {
+    font-size: 23px;
+    text-decoration: none;
+    background-color: grey;
+    border-radius: 3px;
+    padding: 3px;
+    color: white;
+}
+#login {
+    float: right;
+    margin: 12px;
+    display: block;
+    position:relative;
+}
+#logout {
+    right: 0px;
+    margin: 40px 12px;
+    position: absolute;
+
+}
+#login:hover, #logout:hover {
+    opacity: 0.8;
+    transition-duration: 0.3s;
+}
+p#loggedUser {
+    float: right;
+    font-size: 20px;
+    margin: 12px;
+    position: relative;
+}
+p#loggedUser #loggedUsername {
+        text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
+        font-weight: 400;
+        text-transform: uppercase;
+        background-color: #f0f0f0;
+        border-radius: 3px;
+        padding: 3px 5px;
+        color: darkgrey;
+        opacity: 0.85;
+    }
+
+p#nba {
+    font-variant: small-caps;
+    text-transform: capitalize;
+    font-size: 35px;
+    word-spacing: 15px;
+    width: 600px;
+    display: inline;
+    height: 100px;
+    position: absolute;
+    top: -20%;
+    left: 35%;
+}
+p#nba > span {
+    font-weight: 900;
+}
+#N, #B, #A { font-size: 40px; }
+#N { color: blue; }
+#B { color: white; }
+#A { color: red; }

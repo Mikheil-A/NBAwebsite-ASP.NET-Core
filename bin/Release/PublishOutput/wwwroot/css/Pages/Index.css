@@ -1,0 +1,44 @@
+﻿/*Mark "Home" (the current) page*/
+nav li#home > a{
+    background-color: #111;
+}
+
+article > div{
+    width:100%;
+    margin:0;
+	background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+div.players{
+	margin-bottom: 1px;
+	width:100%;
+    height:400px;
+    padding-top:220px;
+}
+div.players > div{
+    display:table-cell;
+}
+div.players img{
+    border-radius: 50px;
+    width:100%;
+    transition-duration:0.5s;
+}
+div.players img:hover {
+    box-shadow:5px 10px 15px 5px rgba(0, 0, 0, 0.8);
+    transform: scale(1.2);
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+#readMore{
+    position:relative;
+    border-radius:50%;
+    transition-duration:0.5s;
+    width:18%;
+    height:10%;
+}
+#readMore:hover{
+    opacity:0.8;
+    transform:scale(1.1);
+    box-shadow:3px 6px 16px 5px rgba(0, 0, 0, 0.6);
+}

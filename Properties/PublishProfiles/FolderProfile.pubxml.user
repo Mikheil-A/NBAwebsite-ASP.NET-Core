@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_NewBackgroundProfile>False</_NewBackgroundProfile>
+    <_PublishTargetUrl>C:\Users\Misho\Downloads\Uploads\core\Project\NBAwebsite\bin\Release\PublishOutput</_PublishTargetUrl>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdm+Z8fk47EK9ZypQQSylIQAAAAACAAAAAAAQZgAAAAEAACAAAAC08lJPJ9/yBFddOFOOVFMt3MlszvGgHPgXtrJ8CgFkxgAAAAAOgAAAAAIAACAAAAD9amQMimdCUs1C5kQlsQZwRMdoHab+YeKmWEA3m3k+mSAAAAD9v314n+9TzWSxNcrlpRfO3Vl30RYce1/016thqhJsxUAAAABClel48frdbTfmmliHbmxzl4dUebvh9VsJxxVZ1e3gJM+bsv6po3W18YFVWPP3o2d6Y0OBCzEUQzY5cPjWEZZ9</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="CSforNBAwebDB">
+      <Value>Data Source=SQL6002.SmarterASP.NET;Initial Catalog=DB_A25D56_MishoAlex;User Id=DB_A25D56_MishoAlex_admin;Password=FE@V48VjoiaR951;</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

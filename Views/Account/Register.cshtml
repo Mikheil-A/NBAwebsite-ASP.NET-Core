@@ -1,0 +1,56 @@
+﻿@model NBAwebsite.Models.ViewModels.Register
+
+<link href="~/css/Pages/Register-Login.css" rel="stylesheet" />
+
+<article>
+    <h1>Create a new account.</h1>
+    <hr />
+
+        @{
+        <!--On httpGET request this is null, and on httpPOST request it has a value-->
+            if (ViewBag.RegisterResult != null)
+            {
+                <p id="submitResult">@ViewBag.RegisterResult</p>
+            }
+        }
+
+    <form method="post" asp-controller="Account" asp-action="Register">
+        @*<div asp-validation-summary="All"></div>*@
+
+        <table>
+            <tr>
+                <td><label asp-for="Username"></label></td>
+                <td>
+                    <input asp-for="Username" type="text" />
+                    <span asp-validation-for="Username" id="validation"></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td><label asp-for="Email"></label></td>
+                <td>
+                    <input asp-for="Email" type="email" />
+                    <span asp-validation-for="Email" id="validation"></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td><label asp-for="Password"></label></td>
+                <td>
+                    <input asp-for="Password" type="password" />
+                    <span asp-validation-for="Password" id="validation"></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td><label asp-for="ConfirmPassword"></label></td>
+                <td>
+                    <input asp-for="ConfirmPassword" type="password" />
+                    <span asp-validation-for="ConfirmPassword" id="validation"></span>
+                </td>
+            </tr>
+        </table>
+
+        <input type="submit" value="Register" />
+    </form>
+</article>

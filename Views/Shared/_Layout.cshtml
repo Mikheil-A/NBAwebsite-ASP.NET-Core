@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="~/css/_Layout.css" rel="stylesheet" type="text/css"/>
+    <link href="~/Images/icon.jpg" rel="icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="~/js/_Layout.js"></script>
+
+    <title>NBA :: @ViewBag.Title</title>
+</head>
+<body>
+        @{
+            Html.RenderPartial("Partial Views/_Header");
+            Html.RenderPartial("Partial Views/_Navigation");
+            Html.RenderPartial("Partial Views/_Sidebars");
+        }
+
+    <article>
+        @RenderBody();
+
+        <!--Scroll to top - Image-->
+        <a id="ScrollToTop_Image" title="Scroll To Top" onclick="scrollToTop()">
+            <img src="~/Images/scrolltotop.jpg" />
+        </a>
+    </article>
+
+        @{
+            Html.RenderPartial("Partial Views/_Footer");
+        }
+
+    <!--jQuery code for footer being always at the bottom without "position:fixed"-->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script>
+            $(document).ready(function () {
+                var bodyHeight = $("body").height();
+                var vwptHeight = $(window).height();
+                if (vwptHeight > bodyHeight) {
+                    $("footer").css("position", "absolute").css("bottom", 0);
+                }
+    });
+    </script>
+</body >
+</html >

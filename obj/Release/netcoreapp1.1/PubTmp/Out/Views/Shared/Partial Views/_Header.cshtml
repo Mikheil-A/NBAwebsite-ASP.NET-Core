@@ -1,0 +1,35 @@
+<link href="~/css/Partial Views/Header.css" rel="stylesheet" type="text/css" />
+
+<header>
+    <a href="http://www.nba.com" target="_blank" title="NBA.com">
+        <img src="~/Images/NBA logo.png" height="80" width="300" id="logo" />
+    </a>
+
+    @{
+        <!--This is the way of accessing sessions from views (.cshtml pages) and not throught actions methods in controllers-->
+        var usernameSession = new Byte[20];
+        bool usernameSessionExists = Context.Session.TryGetValue("loggedInUsername", out usernameSession);
+
+        if (usernameSessionExists)
+        {
+            <p id="loggedUser">
+                You're signed in as
+                <a id="loggedUsername" href="@Url.Action("Profile", "Account")" title="View your profile page">
+                    @System.Text.Encoding.UTF8.GetString(usernameSession)
+                </a>
+            </p>
+
+            <a id="logout" href="@Url.Action("Logout", "Account")">Log Out</a>
+        }
+        else
+        {
+                <a id="login" href="@Url.Action("Login", "Account")">Log In</a>
+        } 
+    }
+
+    <p id="nba">
+        <span id="N">N</span>ational
+        <span id="B">B</span>asketball
+        <span id="A">A</span>ssociation
+    </p>
+</header>

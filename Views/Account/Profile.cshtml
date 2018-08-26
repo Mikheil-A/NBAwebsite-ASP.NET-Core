@@ -1,0 +1,26 @@
+﻿@{ 
+    ViewData["Title"] = "Profile";
+}
+
+<article>
+    @{ 
+        if (ViewBag.usern != null)
+        {
+            <h2>My profile page</h2>
+            <hr />
+
+            <p>Username: @ViewBag.usern</p>
+            <p>E-mail: @ViewBag.email</p>
+            <p>Register date: @ViewBag.date</p>
+        }
+        else
+        {
+            <h2>You are not logged in</h2>
+    <p>
+            <a href="@Url.Action("Login", "Account")">Log in </a>
+            or
+            <a href="@Url.Action("Register", "Account")"> Register</a>
+        </p>
+            }
+        }
+</article>

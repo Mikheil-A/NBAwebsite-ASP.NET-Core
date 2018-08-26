@@ -1,0 +1,60 @@
+C:\Users\MiShO\Downloads\NBAwebsite\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.deps.json
+C:\Users\MiShO\Downloads\NBAwebsite\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.runtimeconfig.json
+C:\Users\MiShO\Downloads\NBAwebsite\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.runtimeconfig.dev.json
+C:\Users\MiShO\Downloads\NBAwebsite\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.dll
+C:\Users\MiShO\Downloads\NBAwebsite\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.pdb
+C:\Users\MiShO\Downloads\NBAwebsite\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.csprojResolveAssemblyReference.cache
+C:\Users\MiShO\Downloads\NBAwebsite\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.AssemblyInfo.cs
+C:\Users\MiShO\Downloads\NBAwebsite\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.dll
+C:\Users\MiShO\Downloads\NBAwebsite\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.pdb
+C:\Users\MiShO\Downloads\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.deps.json
+C:\Users\MiShO\Downloads\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.runtimeconfig.json
+C:\Users\MiShO\Downloads\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.runtimeconfig.dev.json
+C:\Users\MiShO\Downloads\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.dll
+C:\Users\MiShO\Downloads\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.pdb
+C:\Users\MiShO\Downloads\Project\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.csprojResolveAssemblyReference.cache
+C:\Users\MiShO\Downloads\Project\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.AssemblyInfo.cs
+C:\Users\MiShO\Downloads\Project\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.dll
+C:\Users\MiShO\Downloads\Project\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.pdb
+C:\Users\MiShO\Desktop\My Files\Workspace\Profession (Job, Slave, MUSHaoba)\Programming (GAMING, SEARCHING)\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.deps.json
+C:\Users\MiShO\Desktop\My Files\Workspace\Profession (Job, Slave, MUSHaoba)\Programming (GAMING, SEARCHING)\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.runtimeconfig.json
+C:\Users\MiShO\Desktop\My Files\Workspace\Profession (Job, Slave, MUSHaoba)\Programming (GAMING, SEARCHING)\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.runtimeconfig.dev.json
+C:\Users\MiShO\Desktop\My Files\Workspace\Profession (Job, Slave, MUSHaoba)\Programming (GAMING, SEARCHING)\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.dll
+C:\Users\MiShO\Desktop\My Files\Workspace\Profession (Job, Slave, MUSHaoba)\Programming (GAMING, SEARCHING)\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.pdb
+C:\Users\MiShO\Desktop\My Files\Workspace\Profession (Job, Slave, MUSHaoba)\Programming (GAMING, SEARCHING)\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.csprojResolveAssemblyReference.cache
+C:\Users\MiShO\Desktop\My Files\Workspace\Profession (Job, Slave, MUSHaoba)\Programming (GAMING, SEARCHING)\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.AssemblyInfo.cs
+C:\Users\MiShO\Desktop\My Files\Workspace\Profession (Job, Slave, MUSHaoba)\Programming (GAMING, SEARCHING)\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.dll
+C:\Users\MiShO\Desktop\My Files\Workspace\Profession (Job, Slave, MUSHaoba)\Programming (GAMING, SEARCHING)\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.pdb
+C:\Users\Misho\Downloads\Project (BACKUP, JIC)\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.deps.json
+C:\Users\Misho\Downloads\Project (BACKUP, JIC)\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.runtimeconfig.json
+C:\Users\Misho\Downloads\Project (BACKUP, JIC)\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.runtimeconfig.dev.json
+C:\Users\Misho\Downloads\Project (BACKUP, JIC)\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.dll
+C:\Users\Misho\Downloads\Project (BACKUP, JIC)\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.pdb
+C:\Users\Misho\Downloads\Project (BACKUP, JIC)\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Downloads\Project (BACKUP, JIC)\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.AssemblyInfo.cs
+C:\Users\Misho\Downloads\Project (BACKUP, JIC)\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.dll
+C:\Users\Misho\Downloads\Project (BACKUP, JIC)\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.pdb
+C:\Users\Misho\Downloads\Project (in editing progress)\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.deps.json
+C:\Users\Misho\Downloads\Project (in editing progress)\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.runtimeconfig.json
+C:\Users\Misho\Downloads\Project (in editing progress)\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.runtimeconfig.dev.json
+C:\Users\Misho\Downloads\Project (in editing progress)\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.dll
+C:\Users\Misho\Downloads\Project (in editing progress)\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.pdb
+C:\Users\Misho\Downloads\Project (in editing progress)\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Downloads\Project (in editing progress)\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.AssemblyInfo.cs
+C:\Users\Misho\Downloads\Project (in editing progress)\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.dll
+C:\Users\Misho\Downloads\Project (in editing progress)\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.pdb
+C:\Users\Misho\Desktop\My Files\Workspace\Profession (Job, Slave, MUSHAoba)\Programming (GAMING, SEARCHING)\Projects for portfolio\NBA website\ASP.NET Core\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.deps.json
+C:\Users\Misho\Desktop\My Files\Workspace\Profession (Job, Slave, MUSHAoba)\Programming (GAMING, SEARCHING)\Projects for portfolio\NBA website\ASP.NET Core\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.runtimeconfig.json
+C:\Users\Misho\Desktop\My Files\Workspace\Profession (Job, Slave, MUSHAoba)\Programming (GAMING, SEARCHING)\Projects for portfolio\NBA website\ASP.NET Core\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.runtimeconfig.dev.json
+C:\Users\Misho\Desktop\My Files\Workspace\Profession (Job, Slave, MUSHAoba)\Programming (GAMING, SEARCHING)\Projects for portfolio\NBA website\ASP.NET Core\Project\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\My Files\Workspace\Profession (Job, Slave, MUSHAoba)\Programming (GAMING, SEARCHING)\Projects for portfolio\NBA website\ASP.NET Core\Project\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.dll
+C:\Users\Misho\Desktop\My Files\Workspace\Profession (Job, Slave, MUSHAoba)\Programming (GAMING, SEARCHING)\Projects for portfolio\NBA website\ASP.NET Core\Project\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.pdb
+C:\Users\Misho\Desktop\My Files\Workspace\Profession\Gaming\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.deps.json
+C:\Users\Misho\Desktop\My Files\Workspace\Profession\Gaming\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.runtimeconfig.json
+C:\Users\Misho\Desktop\My Files\Workspace\Profession\Gaming\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.runtimeconfig.dev.json
+C:\Users\Misho\Desktop\My Files\Workspace\Profession\Gaming\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.dll
+C:\Users\Misho\Desktop\My Files\Workspace\Profession\Gaming\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\bin\Debug\netcoreapp1.1\NBAwebsite.pdb
+C:\Users\Misho\Desktop\My Files\Workspace\Profession\Gaming\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\My Files\Workspace\Profession\Gaming\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.AssemblyInfo.cs
+C:\Users\Misho\Desktop\My Files\Workspace\Profession\Gaming\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.dll
+C:\Users\Misho\Desktop\My Files\Workspace\Profession\Gaming\Projects\NBA website\ASP.NET Core\Project\NBAwebsite\obj\Debug\netcoreapp1.1\NBAwebsite.pdb
